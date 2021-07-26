@@ -8,9 +8,10 @@ This repo helps you to make a quick start of the Node Express API by providing a
 
 ## How to Use
 
- 1. Clone the repo
+ 1. Clone the repo and `cd` in it
  2. Run the `npm install` command
- 3. and you will be able to access the api at http://localhost:3030/api/v1
+ 3. Run the `npm start` command
+ 4. and you will be able to access the api at http://localhost:3030/api/v1
 
 
 ## What is Included in the Repo:

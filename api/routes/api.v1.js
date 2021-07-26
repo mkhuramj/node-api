@@ -15,6 +15,7 @@ const auth = jwt({
       algorithms: ['HS256']
 })
 
+router.get('/', (req, res) => res.status(200).json({khuram: 'Home for Express API V1'}))
 /**
  * Authentication Routes
  */
